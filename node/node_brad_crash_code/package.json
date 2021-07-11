@@ -1,0 +1,17 @@
+{
+  "name": "node_brad_crash_code",
+  "version": "1.0.0",
+  "description": "\"Brad Crash course\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nilesh Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
